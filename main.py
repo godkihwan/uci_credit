@@ -2,6 +2,7 @@ from classifier import *
 from classifier import algorithms
 import argparse
 
+#철수와 바둑이의 프로젝또
 if __name__ == "__main__":
     # Argument Setting
     parser = argparse.ArgumentParser()
